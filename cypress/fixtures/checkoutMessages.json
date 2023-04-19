@@ -1,0 +1,7 @@
+{
+  "title": "Checkout: Complete!",
+  "header": "Thank you for your order!",
+  "firstNameError": "Error: First Name is required",
+  "lastNameError": "Error: Last Name is required",
+  "postalCodeError": "Error: POstal code is required"
+}

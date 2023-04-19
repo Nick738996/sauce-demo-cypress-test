@@ -1,0 +1,32 @@
+{
+  "backpack": {
+    "name": "Sauce Labs Backpack",
+    "price": "$29.99",
+    "src": "/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg"
+  },
+  "bikeLight": {
+    "name": "Sauce Labs Bike Light",
+    "price": "$9.99",
+    "src": "/static/media/bike-light-1200x1500.37c843b0.jpg"
+  },
+  "tshirt": {
+    "name": "Sauce Labs Bolt T-Shirt",
+    "price": "$15.99",
+    "src": "/**/bolt-shirt**.jpg"
+  },
+  "jacket": {
+    "name": "Sauce Labs Fleece Jacket",
+    "price": "$49.99",
+    "src": "/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg"
+  },
+  "onesie": {
+    "name": "Sauce Labs Onesie",
+    "price": "$7.99",
+    "src": "/static/media/red-onesie-1200x1500.2ec615b2.jpg"
+  },
+  "redTshirt": {
+    "name": "Test.allTheThings() T-Shirt (Red)",
+    "price": "$15.99",
+    "src": "/static/media/bolt-shirt-1200x1500.c2599ac5.jpg"
+  }
+}
